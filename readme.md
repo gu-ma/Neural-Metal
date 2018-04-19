@@ -3,13 +3,11 @@
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](http://opensource.org/licenses/MIT)
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/webslides/webslides.svg?style=social)](https://twitter.com/g_massol)
 
+Scrape, Download, Categorize and convert midi files into abc files. The midifiles are separated by instrument which can then be used to train LSTM/RNN models. 
 
 <img alt="Litmus" src="img/NeuralMetal@2x.gif" width="884" height="480" border="0">
 
-***:warning: Work in progress :warning:***
-***This is an experimental project that need to be updated so use at your own risk***
-
-Scrape, Download, Categorize and convert midi files into abc files. The midifiles are separated by instrument which can then be used to train LSTM/RNN models. 
+***:warning: Work in progress: This is an experimental project that need to be updated so use at your own risk:warning:***
 
 The scraping is done on 2 websites: [midimelody.ru](http://en.midimelody.ru/) (metal music mostly) and [ninsheetmusic.org](http://www.ninsheetmusic.org/) (Nintendo Sheet Music)
 
