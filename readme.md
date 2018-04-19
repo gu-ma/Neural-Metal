@@ -7,7 +7,7 @@ Scrape, Download, Categorize and convert midi files into abc files. The midifile
 
 <img alt="Litmus" src="img/NeuralMetal@2x.gif" width="884" height="480" border="0">
 
-***:warning: Work in progress: This is an experimental project that need to be updated so use at your own risk:warning:***
+***:warning: Work in progress: This is an experimental project that need to be updated so use at your own risk :warning:***
 
 The scraping is done on 2 websites: [midimelody.ru](http://en.midimelody.ru/) (metal music mostly) and [ninsheetmusic.org](http://www.ninsheetmusic.org/) (Nintendo Sheet Music)
 
