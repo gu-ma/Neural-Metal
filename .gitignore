@@ -1,0 +1,8 @@
+# Files
+*.pyc
+.DS_Store
+
+# Folders
+/#midi
+/#torch-rnn
+/#output
