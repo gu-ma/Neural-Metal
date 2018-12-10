@@ -7,7 +7,7 @@ import sqlite3
 import shutil
 
 # static path to the midimelody files
-MIDIMELODY_PATH = os.path.join(os.getcwd(), '..', 'midi', 'en.midimelody.ru')
+MIDIMELODY_PATH = os.path.join(os.getcwd(), '#midi', 'en.midimelody.ru')
 MIDIMELODY_DB = os.path.join(MIDIMELODY_PATH, '_midimelody_ru.db')
 
 
